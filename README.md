@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoolmanKalle
 - 👀 I’m interested in ... *BSD's, C/C++ and low level development  
-- 🌱 I’m currently learning ... Js/nodejs
+- 🌱 I’m currently learning ... nodejs
 - 📫 How to reach me ... Mail <pascal.cow@gmail.com>
 
 <!---
